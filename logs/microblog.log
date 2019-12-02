@@ -77,3 +77,9 @@ Traceback (most recent call last):
     posts = posts,
 NameError: name 'posts' is not defined
 2019-11-28 12:27:35,763 INFO: Microblog startup [in /home/zordo/micro_blog/app/__init__.py:47]
+2019-12-02 11:17:21,035 INFO: Microblog startup [in /home/zordo/micro_blog/app/__init__.py:47]
+2019-12-02 11:32:16,256 INFO: Microblog startup [in /home/zordo/micro_blog/app/__init__.py:47]
+2019-12-02 11:35:04,768 INFO: Microblog startup [in /home/zordo/micro_blog/app/__init__.py:47]
+2019-12-02 11:46:07,767 INFO: Microblog startup [in /home/zordo/micro_blog/app/__init__.py:47]
+2019-12-02 11:52:55,861 INFO: Microblog startup [in /home/zordo/micro_blog/app/__init__.py:47]
+2019-12-02 11:55:07,410 INFO: Microblog startup [in /home/zordo/micro_blog/app/__init__.py:47]
